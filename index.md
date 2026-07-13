@@ -9,3 +9,4 @@ I love what ESIIL is doing as this has helped me develop earth data science skil
 - 3-6 years of working as a geoscience researchers post BSc. graduating
 - 2 years as a data analyst at AI Hub Africa, Onitsha
 
+![The Field Solutions Logo](/img/Field_Solutions_Logo.png)
